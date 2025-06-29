@@ -26,8 +26,8 @@ eda_project/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+  git clone https://github.com/Sahil-Moharil/titanic-eda.git
+   cd titanic-eda
 (Optional) Create and activate virtual environment:
 
 bash
@@ -73,6 +73,10 @@ Seaborn
 
 📌 Dataset
 Titanic - Machine Learning from Disaster (Kaggle)
+
+🙌 Author
+Sahil Moharil
+GitHub
 
 🤝 Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
