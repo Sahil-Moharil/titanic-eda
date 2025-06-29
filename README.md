@@ -80,10 +80,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 📄 License
 This project is open-source and free to use.
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want me to generate this as a zip or push to your GitHub directly usin
